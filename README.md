@@ -29,4 +29,14 @@
 1. [ライブラリ](../../wiki/lsm6dsr-software#1-ライブラリ)
 2. [サンプルコード](../../wiki/lsm6dsr-software#2-サンプルコード)
 
+## 温湿度センサ (SHT45搭載)
+### ハードウェア
+1. [外形図](../../wiki/sht45-hardware#1-外形図)
+2. [仕様](../../wiki/sht45-hardware#2-仕様)
+3. [インターフェース](../../../wiki/sht45-hardware#3-インターフェース)
+4. [使用時の注意点](../../wiki/sht45-hardware#4-使用時の注意点)
+
+### ソフトウェア
+1. [ライブラリ](../../wiki/sht45-software#1-ライブラリ)
+2. [サンプルコード](../../wiki/sht45-software#2-サンプルコード)
 
